@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CresNetMon", "CresNetMon.csproj", "{F28C040E-58F2-4F88-8C46-41C4A7E5BD69}"
+EndProject
+Global
+	GlobalSection(VaultVsipSolution-v1) = preSolution
+		VaultHost = http://fortress.patersontech.com/VaultService
+		VaultRepositoryID = 2
+		VaultRepositoryGUID = 4a97402f-0f90-4ebc-b271-ed4fff8d53a8
+		ProjectCount = 1
+		ProjectRelativeDiskPath1 = CresNetMon.csproj
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28C040E-58F2-4F88-8C46-41C4A7E5BD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28C040E-58F2-4F88-8C46-41C4A7E5BD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28C040E-58F2-4F88-8C46-41C4A7E5BD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28C040E-58F2-4F88-8C46-41C4A7E5BD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
